@@ -22,7 +22,6 @@ def sumar(num1, num2):
 	suma = num1 + num2
 	return suma #Hacer directamente "return num1 + num2" es igual de válido.
 
-sumaVeryImportant = sumar(1,1)
 #Se puede no guardar el valor devuelto, pero entonces, ¿Para qué devolverlo?
 
 #Método que no devuelve ningún valor, pero hace cosas
